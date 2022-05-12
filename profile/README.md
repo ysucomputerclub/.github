@@ -11,12 +11,14 @@
 
 # Hey, we're the [YSU Computer Club](https://ysucomputerclub.com)!
 
-If you used to belong to any of the following YSU clubs, this is the byproduct of all of them: 
+We're best known for hosting [HackYSU](https://hackysu.com), but we also dabble in eSports, Local Hack Day, and amateur gaming tournaments. 
+
+Have a question or suggestion? [Email us](mailto:contact@ysucomputerclub.com)
+
+Join our [Discord](https://discord.ysucomputerclub.com)
+
+## If you used to belong to any of the following YSU clubs, we are the byproduct of all of them: 
 - Frost Penguins eSports
 - ACM
 - ITSA
 - ISEHA
-
-We're best known for hosting [HackYSU](https://hackysu.com), but we also dabble in eSports, Local Hack Day, and amateur gaming tournaments. 
-
-Have a question or suggestion? [Email us](mailto:contact@ysucomputerclub.com)
