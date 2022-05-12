@@ -11,6 +11,12 @@
 
 # Hey, we're the [YSU Computer Club](https://ysucomputerclub.com)!
 
-We're most known for hosting [HackYSU](https://hackysu.com), but we also dabble in eSports, hosting Local Hack Day, and amateur gaming tournaments. 
+If you used to belong to any of the following YSU clubs, this is the byproduct of all of them: 
+- Frost Penguins eSports
+- ACM
+- ITSA
+- ISEHA
+
+We're best known for hosting [HackYSU](https://hackysu.com), but we also dabble in eSports, Local Hack Day, and amateur gaming tournaments. 
 
 Have a question or suggestion? [Email us](mailto:contact@ysucomputerclub.com)
